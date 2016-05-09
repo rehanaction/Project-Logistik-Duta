@@ -1,0 +1,130 @@
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.config
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.pdb
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.xml
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Resources.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.GenerateResource.Cache
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.xml
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.pdb
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Cabang.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.StockN.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.ResolveComReference.cache
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Buku.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.MenuAwal.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.manifest
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.application
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe.manifest
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.application
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Permintaan.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.LPermintaan.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.RequestBook.resources
+H:\Vb Crud Training\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.BookMutasion.resources
+D:\Project\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.config
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.ResolveComReference.cache
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.xml
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.pdb
+D:\Project\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.manifest
+D:\Project\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.application
+D:\Project\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe
+D:\Project\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.pdb
+D:\Project\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.xml
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbprojResolveAssemblyReference.cache
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.BookMutasion.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Buku.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Cabang.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Compare.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.LPermintaan.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.MenuAwal.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Resources.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Permintaan.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.RequestBook.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.StockN.resources
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.GenerateResource.Cache
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe.manifest
+D:\Project\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.application
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.config
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.ResolveComReference.cache
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.xml
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.pdb
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.manifest
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.application
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.pdb
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.xml
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbprojResolveAssemblyReference.cache
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.BookMutasion.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Buku.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Cabang.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Compare.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.LPermintaan.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.MenuAwal.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Resources.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Permintaan.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.RequestBook.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.StockN.resources
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.GenerateResource.Cache
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe.manifest
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.application
+D:\Project\2016\Maret\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.compareMyob.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.config
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.ResolveComReference.cache
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.xml
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.pdb
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbprojResolveAssemblyReference.cache
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.BookMutasion.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Buku.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Cabang.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Compare.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.compareMyob.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.LPermintaan.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.MenuAwal.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Resources.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Permintaan.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.RequestBook.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.StockN.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.GenerateResource.Cache
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.manifest
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.application
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.pdb
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.xml
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\bin\Debug\MySql.Data.dll
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe.manifest
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.application
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Login.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Daftar.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.UserManagement.resources
+D:\Project\2016\Maret\Migrasi To Mysql\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.SplashScreen.resources
+H:\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.config
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.ResolveComReference.cache
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.xml
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.pdb
+H:\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe.manifest
+H:\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.application
+H:\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.exe
+H:\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.pdb
+H:\Logistik Duta\Logistik Duta\bin\Debug\Logistik Duta.xml
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbprojResolveAssemblyReference.cache
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.BookMutasion.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Buku.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Cabang.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Compare.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.compareMyob.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Daftar.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Login.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.LPermintaan.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.MenuAwal.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Resources.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.Permintaan.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.RequestBook.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.SplashScreen.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.StockN.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik_Duta.UserManagement.resources
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.vbproj.GenerateResource.Cache
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.exe.manifest
+H:\Logistik Duta\Logistik Duta\obj\Debug\Logistik Duta.application
